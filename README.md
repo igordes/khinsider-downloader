@@ -12,13 +12,13 @@ In the future I'm planning to ditch out selenium completely in the sake of using
 
 Just put and URL as an argument to the script
 
-```
+```cmd
 .\khinsider-downloader.py <your link>
 ```
 
 for example:
 
-```
+```cmd
 .\khinsider-downloader.py https://downloads.khinsider.com/game-soundtracks/album/among-us
 ```
 after that, the script should create the directory called as the title of the provided OST link and start downloading all of the mp3 files.
