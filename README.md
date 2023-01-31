@@ -1,6 +1,6 @@
 # khinsider-downloader
 ## Automatic khinsider album downloader made in **Python**
-Poorly made automatic Khinsider site music downloader just for personal use, but If you'll like it - that fine I guess.
+Poorly made automatic Khinsider site music downloader just for personal use, but If you'll like it - that's fine I guess.
 
 For now it **supports only MP3** format and uses selenium.
 
